@@ -1,0 +1,13 @@
+button {
+  background-color: #4CAF50; /* Couleur de fond du bouton */
+  border: none; /* Enlève la bordure */
+  color: white; /* Couleur de la police */
+  padding: 15px 32px; /* Espacement intérieur */
+  text-align: center; /* Alignement du texte */
+  text-decoration: none; /* Supprime la décoration du texte */
+  display: inline-block; /* Affiche le bouton en ligne */
+  font-size: 16px; /* Taille de la police */
+  margin: 4px 2px; /* Espacement extérieur */
+  cursor: pointer; /* Change le curseur en main quand on passe dessus */
+  border-radius: 10px; /* Rend les coins arrondis */
+}
